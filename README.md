@@ -51,17 +51,27 @@
 
 ### 📌 Proyectos destacados
 
-🚀 **[Bockstack](https://github.com/paitorico123/Bockstack)**  
-Recomendador de libros con Vue 3, Firebase y Gemini. Incluye login, roles, biblioteca personal y panel admin.
+### 📌 Proyectos destacados
 
-🤖 **[Dron de Seguridad con YOLOv3-Tiny](https://github.com/papitorico123/dron-yolov3)**  
-Sistema de vigilancia con DJI Tello y detección en tiempo real. Reacciona ante objetos/personas.
-.
-🛠️ **[Sitio Web Boca Punto Rápido](https://github.com/papitoric123/boca-punto-web)**  
-Sitio web estático para restaurante, hecho con HTML, CSS y JavaScript, usando localStorage para carrito, reservas y administración.
+🚀 **[Bockstack](https://github.com/papitorico123/bockstack)**  
+Recomendador de libros hecho en Vue 3 + Firebase. Incluye login, biblioteca personal, roles, noticias IA y recomendaciones vía Gemini AI.
+
+🌐 **[Portafolio Web](https://github.com/papitorico123/protafolio)**  
+Mi portafolio personal como desarrollador. Desarrollado en Vue, muestra mis habilidades, proyectos y enlaces relevantes.
+
+📷 **[Reconocimiento (Dron YOLOv3-Tiny)](https://github.com/papitorico123/reconocimiento)**  
+Proyecto de seguridad con dron DJI Tello + detección de objetos en tiempo real usando YOLOv3-Tiny y visión computacional.
+
+🧠 **Asistente Virtual IUDC** *(Privado o en desarrollo)*  
+App educativa en React + Vite para resolver dudas con IA, leer documentos (XLSX) y conectarse con Firebase.
+
+🔧 **[Devtree](https://github.com/papitorico123/devtree)** *(Privado)*  
+Backend hecho en Node.js y Express usando TypeScript. Proyecto estructurado para prácticas profesionales o APIs RESTful.
+
+🍽️ **[Remake Boca Latina](https://github.com/papitorico123/remakeboca)** *(Privado)*  
+Sitio web rediseñado de restaurante latino. HTML, CSS y JS con almacenamiento local y lógica personalizada para reservas y pedidos.
 
 
----
 
 ### 📈 Estadísticas de GitHub
 
@@ -75,9 +85,9 @@ Sitio web estático para restaurante, hecho con HTML, CSS y JavaScript, usando l
 
 ### 📫 Contáctame
 
-- 💼 [LinkedIn](https://linkedin.com/in/sergio-portela)
-- 💻 [GitHub](https://github.com/sergio-portela)
-- ✉️ sergio@example.com
+- 📞 (302)
+- 💻 [GitHub](https://github.com/papitorico123)
+- ✉️ sergiodavid432@gmail.com
 
 ---
 
