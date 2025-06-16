@@ -49,7 +49,7 @@
 
 ---
 
-### 📌 Proyectos destacados
+
 
 ### 📌 Proyectos destacados
 
@@ -61,9 +61,6 @@ Mi portafolio personal como desarrollador. Desarrollado en Vue, muestra mis habi
 
 📷 **[Reconocimiento (Dron YOLOv3-Tiny)](https://github.com/papitorico123/reconocimiento)**  
 Proyecto de seguridad con dron DJI Tello + detección de objetos en tiempo real usando YOLOv3-Tiny y visión computacional.
-
-🧠 **Asistente Virtual IUDC** *(Privado o en desarrollo)*  
-App educativa en React + Vite para resolver dudas con IA, leer documentos (XLSX) y conectarse con Firebase.
 
 🔧 **[Devtree](https://github.com/papitorico123/devtree)** *(Privado)*  
 Backend hecho en Node.js y Express usando TypeScript. Proyecto estructurado para prácticas profesionales o APIs RESTful.
