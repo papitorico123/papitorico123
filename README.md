@@ -82,7 +82,7 @@ Sitio web rediseñado de restaurante latino. HTML, CSS y JS con almacenamiento l
 
 ### 📫 Contáctame
 
-- 📞 (302)
+- 📞 (3027964981)
 - 💻 [GitHub](https://github.com/papitorico123)
 - ✉️ sergiodavid432@gmail.com
 
